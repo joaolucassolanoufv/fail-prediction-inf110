@@ -1,4 +1,4 @@
-#Trabalho Final - Inteligência Artificial - INF 420
+# Trabalho Final - Inteligência Artificial - INF 420
 
 Para esse trabalho pretendemos analisar e compreender quais são os grupos de alunos de acordo com seu desempenho nas aulas práticas de INF110. O objetivo principal é servir como base para o professor poder identificar aqueles alunos que tem mais/menos dificuldade e aqueles que tem alguma chance de reprovar.
 Tendo ciência desses valores o professor pode aplicar abordagens educacionais personalizadas para cad grupo, a fim de melhorar o processo de aprendizado da turma como um todo.
