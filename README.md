@@ -4,4 +4,4 @@ Para esse trabalho pretendemos analisar e compreender quais são os grupos de al
 Tendo ciência desses valores o professor pode aplicar abordagens educacionais personalizadas para cad grupo, a fim de melhorar o processo de aprendizado da turma como um todo.
 Para aqueles que tem mais facilidade pode ter uma abordagem mais avançada com temas mais específicos e para aqueles que tem mais dificuldade uma atenção personalizada para que o estudante consiga ter um melhor desempenho.
 
-[Link do Google Colab]([https://link-url-here.org](https://colab.research.google.com/drive/14o3jaFvsrbM5OKoGlPacOjRNsTuX1bC7?usp=sharing)https://colab.research.google.com/drive/14o3jaFvsrbM5OKoGlPacOjRNsTuX1bC7?usp=sharing)
+[Link do Google Colab]([https://link-url-here.org](https://colab.research.google.com/drive/14o3jaFvsrbM5OKoGlPacOjRNsTuX1bC7?usp=sharing)https://colab.research.google.com/drive/14o3jaFvsrbM5OKoGlPacOjRNsTuX1bC7?usp=sharing])
